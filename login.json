@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "error": "",
+    "data": {
+        "show2FA": false,
+        "requireCaptcha": true
+    }
+}
